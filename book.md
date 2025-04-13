@@ -4,7 +4,7 @@ In today's digital age, countless hours are spent on apps like Instagram and Tik
 
 ### Our Solution: A Scrollable Literature Feed
 
-We propose building a book app that mirrors the functionality and interface of Instagram, but instead of endless selfies and memes, users will scroll through short literary pieces—poems, quotes, excerpts from books, and short stories. Each post will be visually appealing, drawing users into reading, reflecting, and perhaps even saving or sharing pieces that resonate with them.
+We propose building a book app that mirrors the functionality and interface of Instagram, but instead of endless selfies and memes, users will scroll through short literary pieces—poems, quotes, excerpts from books, and short stories. Each post will be visually appealing, drawing users into reading, reflecting, and perhaps even saving or sharing pieces that resonate with them. 
 
 The goal is to replace unproductive scrolling with inspiring and intellectually enriching content. The app can serve as a digital sanctuary for readers, writers, and literature lovers.
 
